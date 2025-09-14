@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/QUOTE_GENERATOR/static/css/main.1afcc7a7.css",
-    "main.js": "/QUOTE_GENERATOR/static/js/main.7a7cc9c4.js",
-    "static/js/453.79df496c.chunk.js": "/QUOTE_GENERATOR/static/js/453.79df496c.chunk.js",
-    "static/media/loading.gif": "/QUOTE_GENERATOR/static/media/loading.2878cd2b630a94dd322b.gif",
-    "index.html": "/QUOTE_GENERATOR/index.html",
-    "main.1afcc7a7.css.map": "/QUOTE_GENERATOR/static/css/main.1afcc7a7.css.map",
-    "main.7a7cc9c4.js.map": "/QUOTE_GENERATOR/static/js/main.7a7cc9c4.js.map",
-    "453.79df496c.chunk.js.map": "/QUOTE_GENERATOR/static/js/453.79df496c.chunk.js.map"
+    "main.css": "/QUOTEGENERATOR/static/css/main.1afcc7a7.css",
+    "main.js": "/QUOTEGENERATOR/static/js/main.9de49a11.js",
+    "static/js/453.79df496c.chunk.js": "/QUOTEGENERATOR/static/js/453.79df496c.chunk.js",
+    "static/media/loading.gif": "/QUOTEGENERATOR/static/media/loading.2878cd2b630a94dd322b.gif",
+    "index.html": "/QUOTEGENERATOR/index.html",
+    "main.1afcc7a7.css.map": "/QUOTEGENERATOR/static/css/main.1afcc7a7.css.map",
+    "main.9de49a11.js.map": "/QUOTEGENERATOR/static/js/main.9de49a11.js.map",
+    "453.79df496c.chunk.js.map": "/QUOTEGENERATOR/static/js/453.79df496c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1afcc7a7.css",
-    "static/js/main.7a7cc9c4.js"
+    "static/js/main.9de49a11.js"
   ]
 }
